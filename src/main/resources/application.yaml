@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: liveChat
+  main:
+    banner-mode: OFF
