@@ -24,9 +24,5 @@ O projeto está **deployado e funcionando** [aqui](https://livechat-ggks.onrende
 - **WebSocket** com suporte STOMP
 - **STOMP.js** no frontend
 - **Maven** como gerenciador de dependências
-- **Docker** (opcional, para deploy)
-
----
-
-## Estrutura do Projeto
+- **Docker**
 
